@@ -1,6 +1,6 @@
 #!/bin/ruby
 # The MIT License
-# 
+# This gitgub editing test
 # Copyright (c) 2004-2009, Sun Microsystems, Inc., Kohsuke Kawaguchi
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
